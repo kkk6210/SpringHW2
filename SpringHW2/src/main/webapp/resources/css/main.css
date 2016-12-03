@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+
+table {
+	width: 500x;
+	border: 2px solid #808080;
+	margin: 50px;
+	padding: 20px;
+}
+
+td {
+	text-align: center;
+	height: 10px;
+	vertical-align: center;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+}
+
+.label {
+	text-align: right;
+	height: 10px;
+	vertical-align: center;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+}
+
+
+th {
+	background-color: #ebebeb;
+	height: 10px;
+	vertical-align: center;
+	text-align: center;
+	color: black;
+	padding: 20px;
+}
+
+.formtable {
+	width: 1000px;
+	border: 2px solid #808080;
+	margin: 50px;
+	padding: 20px;
+}
+
+}
+input {
+	width: 200px;
+	text-align: left;
+	vertical-align: center;
+}
+
+input[type=submit] {
+	text-align: center;
+	vertical-align: center;
+	width: 120px;
+}
